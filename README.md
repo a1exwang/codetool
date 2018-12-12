@@ -1,2 +1,5 @@
-# codetool
-C/C++ static analysis tool set. Possible features: IDE-like code inspection; Lint;
+# codetool: C++ static analysis tools including IDE-like code inspection
+
+### TODOs
+- Find usages
+- High order find usages
